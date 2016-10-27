@@ -1,0 +1,930 @@
+docName	sentence
+Anthony_Wagner	Sir Anthony Richard Wagner ( 6 September , 1908-5 May 1995 ) was an officer of arms from England .
+Anthony_Wagner	Wagner wrote many books about heraldry .
+Anthony_Wagner	He became Portcullis Pursuivant in 1931 and then served in the Army during World War II .
+Anthony_Wagner	He became Garter King of Arms in 1961 and served until 1978 .
+Anthony_Wagner	Wagner was made a knight in 1961 .
+Anthony_Wagner	Even though he was blind when he was older , he still served at the College of Arms until he died in 1995 .
+AAC	AAC is a file format for storing music or other sounds .
+AAC	It stands for Advanced Audio Coding or Advanced Audio Codec .
+AAC	It is used by Apple Inc. in the iPod and iTunes .
+AAC	AAC is one of the standard formats that comes from the MPEG organization , the same people who invented MP3 .
+AAC	There are several flavors of AAC .
+AAC	These are the most popular : AAC LC-the format used by Apple software ; it takes up more space and is used for music stored on an iPod , CD-ROM , or disk drive .
+AAC	HE-AAC v1-a more efficient format ; it saves space for music sent over a network , like over the Internet or to a cell phone .
+AAC	Brand names for this format include aacPlus ™ , Nero Digital ™ , and AAC + .
+AAC	HE-AAC v2-an even more efficient format for music sent over a network .
+AAC	Brand names for this format include aacPlus ™ v2 , eAAC + ™ , and AAC + Enhanced ™ .
+AAC	Here are some common AAC file name endings : .
+AAC	aac-music only .
+AAC	.
+AAC	m4a-music and information .
+AAC	m4p-music and information , with DRM .
+AAC	m4b-speech and information , `` Audiobook '' recognized by Apple that keeps the listener 's position .
+AAC	m4r-music and information used by Apple as a ringtone .
+AAC	mp4-music , video , or both , plus information .
+AAC	An AAC file that has only music and information could have a name that ends with either .
+AAC	m4a or .
+AAC	mp4 .
+AAC	A KDE\/Qt application for Linux\/Unix called easytag will edit metadata about AAC-encoded files as long as they end with the .
+AAC	m4a extension .
+AAC	Typically , renaming file files to .
+AAC	m4a and back to the original extension after editing is sufficient .
+AAC	This method can be used to configure typical ID3v2 metadata including cover art .
+AAC	This cover art is used by Apple 's iTunes and their media players .
+AAC	Note that easytag does not have the ability to add chapter points into Audiobooks ( .
+AAC	m4b ) .
+Absolute_zero	In theory , absolute zero is the temperature where the particles of matter stop moving .
+Absolute_zero	Absolute zero is impossible to achieve , because all particles move , even if it is just a small vibration .
+Absolute_zero	Some people have created temperatures very close to absolute zero , but the record temperature was 100 pK ( Picokelvin ) above absolute zero .
+Absolute_zero	Even getting close to absolute zero is difficult because anything that touches an object being cooled near absolute zero would give heat to the objects .
+Absolute_zero	Scientists use lasers to slow atoms when cooling objects to very low temperatures .
+Absolute_zero	The Kelvin and Rankine temperature scales are defined so that absolute zero is 0 kelvins ( K ) or 0 degrees Rankine ( ° R ) .
+Absolute_zero	The Celsius and Fahrenheit scales are defined so that absolute zero is − 273.15 ° C or − 459.67 ° F. At this stage the pressure of the particles is zero .
+Absolute_zero	If we plot a graph to it , we can see that the temperature of the particles is zero .
+Absolute_zero	The temperature can not go down any further .
+Absolute_zero	Also , the particles can not move in `` reverse '' either because as the movement of particles is vibration , vibrating in reverse would be nothing but simply vibrating again .
+Absolute_zero	The closer the temperature of an object gets to absolute zero , the less resistive the material is to electricity therefore it will conduct electricity almost perfectly , with no measurable resistance .
+Absolute_zero	The Third Law of Thermodynamics says that nothing can ever have a temperature of absolute zero .
+Absolute_zero	The Second Law of Thermodynamics says that all engines that are powered by heat ( like car engines and steam train engines ) must release waste heat and ca n't be 100 % efficient .
+Absolute_zero	This is because the efficiency ( percent of energy the engine uses up that is actually used to do the engine 's job ) is 100 % × ( 1-Toutside\/Tinside ) , which only is 100 % if the outside temperature is absolute zero which it ca n't be .
+Absolute_zero	So , an engine ca n't be 100 % efficient , but you can make its efficiency closer to 100 % by making the inside temperature hotter and\/or the outside temperature colder .
+Accent	For other uses , see Accent ( disambiguation ) .
+Accent	An accent is the way a person speaks .
+Accent	Sometimes people will talk about someone 's accent .
+Accent	They might say that the person has a German accent , or an Australian accent .
+Accent	An accent is the way words are said .
+Accent	The way a person says words usually comes from where he or she was a child , and other people where he or she lives .
+Accent	People learn how to say words and sentences so that they sound the same as when others speak .
+Accent	People speaking the same language can have different accents .
+Accent	Even people in the same country can have different accents .
+Accent	Sometimes people can tell what city someone lived in when as a child , by the way that person speaks .
+Accent	( e.g. a New York City accent ) When first trying to learn a new language , often a person will still have his or her old accent .
+Accent	People may be able to guess what country or place that person lived in before .
+Accent	If someone can learn another language well enough , he or she may not have the old accent anymore .
+Accent	These people may get a new accent in the new language .
+Accent	If someone studied German in Austria , people in Germany may think that person was Austrian .
+Angers	Angers is a city in the west of France .
+Angers	Around 160,000 inhabitants live inside the city and 300,000 live in the metropolitan area .
+Angers	It is the capital of the historical province called Anjou .
+Angers	Nowadays , the name of Anjou is Maine-et-Loire .
+Angers	The inhabitants of Angers and of Anjou are called ` angevins ' .
+Angers	The city existed before the Roman Empire .
+Angers	After the Roman conquest , the city was called Juliomagus .
+Angers	Angers was an important french city during the Middle-Ages .
+Angers	There is one of the bigger castles of Europe in the city .
+Angers	It is now the 16th city of France ( for its population ) .
+Angers	It is an economic center , a touristic and cultural town .
+Angers	Many festivals happen every year in the city ( film festival ` Premiers plans ' , street festivals ` Tours de scène ' and the famous ` Accroches-coeurs ' ) .
+Angers	It has many museums .
+Angers	The museum of Beaux-Arts ( a famous Art museum ) and `` Apocalypse Tapestry '' ( the oldest and largest collection of medieval tapestries in the world ) are very famous .
+Angers	There are two universities .
+Angers	More than 17,000 students go to the ` Université d'Angers ' ( a state university ) and 12,000 go to the ` Université Catholique de l'Ouest ' ( a private catholic university ) .
+Angers	The ` Ecole Superieure des Sciences Commerciales d'Angers ' is one of the most prestigious business school in France .
+Angers	Angers is twinned with : Haarlem , Netherlands , since 1964 .
+Angers	Osnabrück , Germany , since 1964 .
+Angers	Bamako , Mali , since 1974 .
+Angers	Pisa , Italy , since 1982 .
+Angers	Wigan , United Kingdom , since 1988 .
+Angers	Södertälje , Sweden , since 1998 .
+Angers	Seville , Spain , since 2000 .
+Angers	Yantai , China , since 2006 .
+Actor	An actor is a person who acts , or has a role ( a part ) in a movie , television show , play , or radio show .
+Actor	Sometimes actors only sing or dance , or sometimes they only work on radio .
+Actor	A woman actor is also an actress , but today most people use the word `` actor '' for both men and women .
+Actor	The first time we know an actor worked was in 534 B.C. , probably on November 23rd .
+Actor	The changes in calendar over the years make it hard to say exactly when the Greek actor Thespis became the first person to speak words as a character in a play at the Theatre Dionysus .
+Actor	This was a big change in storytelling .
+Actor	Before then , people sang and danced stories , but no-one had been a person in the story .
+Actor	Today we call actors `` thespians '' because of Thespis .
+Actor	In the past , the name `` actor '' was only for men .
+Actor	Women only began performing often in the 17th century .
+Actor	When they began , people called them the `` actresses '' .
+Actor	In the ancient world and in the Middle Ages , people thought it was bad ( shameful ) for a woman to act .
+Actor	People thought this until the 17th century .
+Actor	In the time of William Shakespeare , men and boys played women 's roles , but we think perhaps women also acted secretly .
+Actor	Today , the name `` actor '' is for both men and women , because some people think the name `` actress '' is sexist .
+Actor	But people also use the name actress very often .
+Actor	Women actors sometimes act the roles of young boys , because in some ways a woman is more similar to a boy than a man is .
+Actor	A woman usually plays the role of Peter Pan , for example .
+Actor	In pantomime , a sort of play for children ( not the same as mime ) , the most important young man is also a woman .
+Actor	Opera has some ` pants roles ' which women traditionally sing , usually mezzo-sopranos .
+Actor	Examples are Hansel in Hansel und Gretel , and Cherubino in The Marriage of Figaro .
+Actor	Mary Pickford played the part of `` Little Lord Fauntleroy '' in the first film version of the book .
+Actor	Linda Hunt won an Academy Award for Best Supporting Actress in The Year of Living Dangerously , in which she played the part of a man .
+Actor	In comic theater and film , people often use a man for a woman 's part , or a woman for a man 's part - this has a long history .
+Actor	Most of Shakespeare 's comedies have examples of this .
+Actor	Both Dustin Hoffman and Robin Williams were in popular comedy films where they played most scenes as men in women 's clothes , pretending to be women .
+Actor	Voice acting is a special type of acting .
+Actor	It is most commonly used in animation for both television and movies .
+Actor	Voice actors are the people who make the voices for the characters .
+Actor	They may also create the voices used for narration in non-animated works .
+Azuki_bean	The azuki bean is a type of reddish-brown colored bean .
+Azuki_bean	It can also be spelled adzuki .
+Azuki_bean	The bean is grown in East Asia and the Himalayas .
+Azuki_bean	It is often boiled in sugar to make a red bean paste .
+Azuki_bean	This paste is used in Chinese , Korean , and Japanese cooking .
+Azuki_bean	Azuki beans are eaten in many places in the world .
+Azuki_bean	Especially , azuki beans are used in sweet meals , snacks and dishes in Japan , China , Korea and Vietnam .
+Azuki_bean	Azuki beans have a long and varied history and there are many recipes .
+Azuki_bean	Azuki beans are very famous red beans in Japan .
+Azuki_bean	Excavations of Jomon period archaeological sites suggest that people have been eating Azuki beans since the Jomon period .
+Azuki_bean	And Azuki seeds were discovered from excavations of Jomon period .
+Azuki_bean	At that time , Azuki beans were called `` shozu '' .
+Azuki_bean	Azuki beans have been grown since the Yayoi period .
+Azuki_bean	The first time the word `` Azuki '' was used was in the book `` Koziki '' .
+Azuki_bean	Old Japanese said `` Aka '' for red .
+Azuki_bean	And Azuki beans were called `` zuki '' because Azuki beans get soft when they are boiled .
+Azuki_bean	`` Aka '' plus `` zuki '' is `` Azuki '' and this is the origin of Azuki bean 's name .
+Azuki_bean	Another Azuki beans has many origins .
+Azuki_bean	Azuki beans are red , so many old people believed Azuki beans were a good luck charm .
+Azuki_bean	Azuki beans were used in many events and ceremonies in Japan , China and Korea .
+Azuki_bean	In the Edo period , people made rice mixed with Azuki beans .
+Azuki_bean	This was called `` Sekihan '' and many people gave sekihan at ceremonies .
+Azuki_bean	Azuki beans were used as medicine , because Azuki beans are nutritious .
+Azuki_bean	Now many people eat sekihan when there are ceremonies in Japan .
+Azuki_bean	In addition Azuki beans are used in many Japanese cakes , Many sweets use Azuki raw materials for the taste and color .
+Azuki_bean	So Azuki beans are closely related to Japanese life from ancient times .
+Azuki_bean	Azuki beans make bean jam .
+Azuki_bean	A sweet porridge of boiled and crushed azuki beans are eaten with rice-flour dumplings .
+Azuki_bean	Oval-shaped sweets are made from glutinous rice and covered with azuki bean .
+Azuki_bean	Bean-jam pancakes and bean-jam filled buns are also popular snacks .
+Azuki_bean	Azuki beans are also used in pillows and beanbags .
+Azuki_bean	First , azuki beans are boiled until the azuki skin stretches .
+Azuki_bean	The azuki beans are put in the perforated basket .
+Azuki_bean	Next , the azuki are boiled again for a short time to remove harshness .
+Azuki_bean	The azuki are put into perforated basket to drain .
+Azuki_bean	After , a pan is prepared .
+Azuki_bean	The azuki are put in the pan .
+Azuki_bean	A lid is put on the pan .
+Azuki_bean	The azuki beans are steamed and the heat is turned off .
+Azuki_bean	The azuki bean mash is dried on cloth .
+Azuki_bean	The azuki are taken out of the pan which is hot from flame .
+Azuki_bean	Sugar is added .
+Azuki_bean	The sugar and azuki is mixed and the water of azuki is left , if the azuki falls down a large spoon dripping , the heat is turned off .
+Azuki_bean	Finally , the azuki is cooled .
+Azuki_bean	When the azuki is cold , it is finished .
+Azuki_bean	Azuki bean jam is used in many foods .
+Azuki_bean	For example , a fish-shaped waffle is filled with azuki bean jam .
+Azuki_bean	Azuki bean jam foods are famous in Japan , and they are eaten by many Japanese .
+Atrax	Spiders of the genus Atrax have very strong venom .
+Atrax	They aggressively defend their territory and chase off attackers who may scare them by making a threat display .
+Atrax	Next they will bite .
+Atrax	The fastest death occurred in 1927 when a young boy died within fifteen minutes of being bitten .
+Atrax	Thirteen deaths were recorded in the fifty years before antivenom was invented for this spider 's bite .
+Atrax	In English they are sometimes called Sydney Funnel Web spiders because they come from around that part of Australia .
+Atrax	References .
+Atrax	By Nancy Cushing and Kevin Markwell .
+Alchemy	Alchemy is a study of the basic elements called fire , water , earth and air .
+Alchemy	It is the study of transmutation .
+Alchemy	It was first studied to learn how to change lead into gold .
+Alchemy	It is similar to chemistry , but much older .
+Alchemy	People who studied alchemy were called alchemists .
+Alchemy	Alchemists in the Middle Ages often tried to make gold using things that were not gold .
+Alchemy	They also tried to make the Elixir of Life ( which would give the gift of immortality ) .
+Alchemy	Many times alchemists would use stories and legends to try to veil ( cover up ) how to make gold .
+Alchemy	The psychologist Carl Gustav Jung was interested in this as well but in relation to the soul of man .
+Alchemy	Alchemists are objective ( they deal with external existence ) while psychologists are subjective ( they deal with the inner life of man ) .
+Alchemy	Alchemists deal with the First Matter ( a substance that makes transmutation easy ) while Psychology deals with the mind .
+Alchemy	A famous saying in Alchemy : `` As above , so below '' veils the relationship existing between Alchemy and Psychology .
+Alchemy	Alchemy is not a science any more .
+Alchemy	Some things that the alchemists learned about were important for other sciences , like chemistry .
+Alchemy	In 1980 , an American scientist named Glenn Seaborg actually changed a very tiny amount of bismuth into gold with a nuclear reactor .
+Alchemy	But it cost much more to transform the energy to do this than the tiny amount of gold was worth .
+Alchemy	This is the closest a scientist has come to discover the Philosopher 's Stone of the ancient Alchemists .
+Alchemy	The Philosopher 's Stone is the means ( way ) Alchemists use to achieve ( to succeed in ) transmutation .
+Alchemy	Alchemy was an important science because it helped create many other sciences that came after it , for example , Chemistry , Physics , Biology , and astronomy .
+Alchemy	Alchemists not only tried to create gold but they also looked for self-purification ( to separate the pure from the impure with great care ) and enlightenment .
+African_elephant	African elephants are the two species of elephants in the genus Loxodonta , one of the two existing genera in Elephantidae .
+African_elephant	Although it is commonly believed that the genus was named by Georges Cuvier in 1825 , Cuvier spelled it Loxodonte .
+African_elephant	An anonymous author romanized the spelling to Loxodonta and the ICZN recognizes this as the proper authority .
+African_elephant	Fossil Loxodonta have only been found in Africa , where they developed in the middle Pliocene .
+African_elephant	Males stand 3.64 meters ( 12 feet ) tall at the shoulder and weigh 5455 kg ( 12,000 lbs ) , while females stand 3 meters ( 10 feet ) and weigh 3636 kg to 4545 kg ( 8,000 to 10,000 lbs ) .
+African_elephant	The largest bulls will weigh 24,000 pounds ( 12 tons ) and stand a little over ( 13 feet ) at the shoulder .
+African_elephant	Elephants have four molars , each weighs about 11 lbs and measures about 12 inches long .
+African_elephant	The front pair wear down and drop out in pieces as the Two new molars emerge in the back of the mouth and the old molars shift forward .
+African_elephant	to replace those that dropped out .
+African_elephant	Elephants replace their teeth six times .
+African_elephant	At about 40 to 60 years of age the elephant no longer has teeth and will likely die of starvation , a common cause of death .
+African_elephant	Their tusks are teeth , the second set of incisors become the tusks .
+African_elephant	They are used for digging for roots and stripping the bark off trees for food , and , fighting each other during mating season , or defending themselves against predators .
+African_elephant	They weigh from 50-100 pounds and can be from can be from 5 to 8 feet long .
+African_elephant	Both bulls and cows have tusks .
+African_elephant	.
+African_elephant	Loxodonta adaurora , extinct , presumed antecedent of the modern African elephants .
+African_elephant	African Bush Elephant ( Loxodonta africana ) .
+African_elephant	African Forest Elephant ( Loxodonta cyclotis ) .
+African_elephant	Bush and Forest Elephants were formerly considered subspecies of the same species Loxodonta africana .
+African_elephant	However , they are nowadays generally considered to be two distinct species .
+African_elephant	The African Forest Elephant has a longer and narrower mandible , rounder ears , a different number of toenails , straighter and downward tusks , and considerably smaller size .
+African_elephant	With regard to the number of toenails : the African Bush Elephant normally has 4 toenails on the front foot and 3 on the hind foot , the African Forest Elephant normally has 5 toenails on the front foot and 4 on the hind foot ( like the Asian elephant ) , but hybrids between the two species commonly occur .
+African_elephant	Poaching significantly reduced the population of Loxodonta in certain regions during the 20th century .
+African_elephant	An example of this poaching pressure is in the eastern region of Chad-elephant herds there were substantial as recently as 1970 , with an estimated population of 400,000 ; however , by 2006 the number had dwindled to about 10,000 .
+African_elephant	The African elephant nominally has governmental protection , but poaching is still a serious issue .
+African_elephant	Human encroachment into or adjacent to natural areas where bush elephants occur has led to recent research into methods of safely driving groups of elephants away from humans , including the discovery that playback of the recorded sounds of angry honey bees are remarkably effective at prompting elephants to flee an area .
+African_elephant	Some elephant communities have grown so large , in Africa , that some communities have resulted to culling large amounts to help sustain the ecosystem .
+African_elephant	All in all African elephants are some of the smartest land animales in the world .
+Arovell_Verlag	Arovell Verlag is an Austrian publishing house for modern literature .
+Arovell_Verlag	It has been founded in 1991 by the Austrian writer , artist and musician Paul Jaeg .
+Arovell_Verlag	Today , Jaeg is still the director .
+Arovell_Verlag	Each year , Arovell prints between ten and twenty new books .
+Arovell_Verlag	Some authors , such as Peter Paul Wiplinger , have already published several books with Arovell , but others use Arovell to publish their first book ( s ) .
+Arovell_Verlag	Arovell publishes modern literature in the German language .
+Arovell_Verlag	They include short prose , stories and poetry .
+Arovell_Verlag	The covers of all books show a painting by Paul Jaeg .
+Arovell_Verlag	Arovell also publishes a magazine about literature , music and art , which gives information about new books and public events .
+Arovell_Verlag	The magazine prints sometimes short texts from the books by Arovell .
+Arovell_Verlag	The publisher organizes literary , musical and artistic events , especially in Upper Austria and Salzburg , but also in Vienna .
+Arovell_Verlag	Arovell 's headquarter is in Gosau in Upper Austria and has branch offices in Vienna and Salzburg .
+Adrian_Lowe	Adrian Lowe is an Australian athlete with a disability .
+Adrian_Lowe	He competes in a wheelchair .
+Adrian_Lowe	At the 1988 Summer Paralympics , He won two gold medals in the Men 's 4x100 m Relay A2A4-7 and the Men 's 4x400 m Relay A2A4-7 races , and three silver medals in the Men 's 100 m A4A9 , Men 's 200 m A4A9 , and the Men 's 400 m A4A9 races .
+Anniston,_Alabama	Anniston is a city in , and county seat of , Calhoun County in the state of Alabama , United States .
+Anniston,_Alabama	As of the 2000 census , the population of the city is 24,276 .
+Anniston,_Alabama	According to the 2005 U.S. Census estimates , the city had a population of 23,741 .
+Anniston,_Alabama	In 2002 , an investigation by 60 minutes showed Anniston was among the most toxic cities in the country .
+Anniston,_Alabama	The main source of local contamination was a Monsanto chemical factory , which was closed .
+Arsenic_triiodide	Arsenic triiodide is a chemical compound .
+Arsenic_triiodide	Its chemical formula is AsI3 .
+Arsenic_triiodide	It has arsenic and iodide ions in it .
+Arsenic_triiodide	The arsenic is in its +3 oxidation state .
+Arsenic_triiodide	Arsenic triiodide is a orange-red solid .
+Arsenic_triiodide	It easily sublimes .
+Arsenic_triiodide	It dissolves in water and reacts very slowly to make arsenious acid and hydroiodic acid .
+Arsenic_triiodide	The solution is very acidic .
+Arsenic_triiodide	It breaks down when heated to make arsenic trioxide , arsenic metal , and iodine .
+Arsenic_triiodide	It is a weak reducing agent .
+Arsenic_triiodide	It is made by reacting sodium or potassium iodide with arsenic trichloride .
+Arsenic_triiodide	As `` Donovan 's solution '' it was said to treat many diseases which it did not treat .
+Alex_Chernov	Alex Chernov AC QC ( born 12 May 1938 ) is the Governor of Victoria .
+Alex_Chernov	Chernov was born in Lithuania to Russian parents , and moved with his family to Salzburg , Austria where he started school .
+Alex_Chernov	In 1949 his family moved to Australia and he completed his schooling at Melbourne High School .
+Alex_Chernov	He studied commerce ( business ) and law at the University of Melbourne during the 1960 's .
+Alex_Chernov	Chernov became a barrister in 1968 , practising mostly in commercial law and equity .
+Alex_Chernov	He was made a Queen 's Counsel in 1980 .
+Alex_Chernov	He was Chairman of the Victorian Bar 1985-86 , Vice-President of the Australian Bar Association 1986-87 and President of the Law Council of Australia 1990-91 .
+Alex_Chernov	He was Vice President of LawAsia 1995-1997 .
+Alex_Chernov	He wrote a book with Robert Brooking AO , Tenancy Law and Practice : Victoria ( 1972 ) and edited the second edition ( 1980 ) .
+Alex_Chernov	In May 1997 he was appointed to the Trial Division of the Supreme Court of Victoria , and in October 1998 to the Court of Appeal .
+Alex_Chernov	He retired in February 2008 .
+Alex_Chernov	He was elected the 20th Chancellor of the University of Melbourne in January 2009 , serving in that office until he resigned to become Governor of Victoria .
+Alex_Chernov	On 21 February 2011 , it was announced that he would become the 28th Governor of Victoria .
+Alex_Chernov	He took officee on 8 April 2011 .
+Alex_Chernov	Chernov is married with three children .
+Alex_Chernov	Chernov was appointed Queen 's Counsel in and for the State of Victoria in 1980 .
+Alex_Chernov	Chernov was created an Officer of the Order of Australia in the 2007 Queen 's Birthday Honours list for service to the law and education .
+Alex_Chernov	On 26 January 2011 , Chernov was named a Companion of the Order of Australia .
+Aldeburgh_Festival	The Aldeburgh Festival is an English arts festival where classical music concerts take place during the summer .
+Aldeburgh_Festival	Aldeburgh is in Suffolk in the south-east of England .
+Aldeburgh_Festival	It is where the composer Benjamin Britten lived with his friend the tenor Peter Pears .
+Aldeburgh_Festival	A lot of Britten 's music is played at the festival , but music by many other composers can be heard as well .
+Aldeburgh_Festival	Most of the concerts take place in the Maltings , a concert hall in the village of Snape , not far away from Aldeburgh .
+Aldeburgh_Festival	The Festival was started in 1948 by the Benjamin Britten , Peter Pears and the librettist Eric Crozier .
+Aldeburgh_Festival	They started the festival so that the English Opera Group would have a place to perform their operas , but soon the festival became bigger .
+Aldeburgh_Festival	There were poetry readings , drama performances , lectures and art exhibitions .
+Aldeburgh_Festival	The first festival was mostly held in Aldeburgh Jubilee Hall , a few doors away from Britten 's house in Crabbe Street .
+Aldeburgh_Festival	His opera Albert Herring was performed , as well as his St Nicolas Cantata .
+Aldeburgh_Festival	Over the years the festival grew .
+Aldeburgh_Festival	Some of the performances took place in the church , or in churches or other halls in nearby villages and small towns such as Orford and Framlingham .
+Aldeburgh_Festival	However , the festival needed a large concert hall .
+Aldeburgh_Festival	In the 1960s the old malthouse ( where barley used to be made ) in Snape was changed into a concert hall .
+Aldeburgh_Festival	It was opened by the Queen on 2 June 1967 , at the start of the twentieth Aldeburgh Festival .
+Aldeburgh_Festival	Two years later , on the first night of the 1969 Festival , the concert hall was destroyed by fire .
+Aldeburgh_Festival	Only the main walls remained .
+Aldeburgh_Festival	For that year the Festival was moved to other local places , but by the next year the hall had been rebuilt and once again it was opened by the Queen , this time at the start of the 1970 Festival .
+Aldeburgh_Festival	The festival is now organized by Aldeburgh Music , which also runs the Britten-Pears Young Artist Programme which gives young musicians a chance to learn from famous music teachers and perform in concerts .
+Aldeburgh_Festival	The festival has a nice atmosphere because it is in the country near the sea and marshes .
+Aldeburgh_Festival	New music is often performed .
+Aldeburgh_Festival	In the past there have been first performances of several works by Britten : ( A Midsummer Night 's Dream in 1960 ; Death in Venice in 1973 ) and also Harrison Birtwistle 's Punch and Judy in 1968 .
+Aldeburgh_Festival	The Festival 's Artistic Director is now the composer Thomas Adès , who was appointed in 1999 .
+Adolf_von_Henselt	Adolf von Henselt ( born Schwabach , Bavaria , May 9 1814 ; died Warmbrunn ( now Cieplice ) , Silesia , October 10 1889 was a German pianist and composer .
+Adolf_von_Henselt	He had piano lessons from Hummel in Weimar .
+Adolf_von_Henselt	When he was a young man he played in concerts all over Germany .
+Adolf_von_Henselt	Then he went to Russia where he was very successful and he settled there to live .
+Adolf_von_Henselt	He became pianist at the court of the tsar and taught the tsar 's children how to play the piano .
+Adolf_von_Henselt	Henselt was known for his beautiful playing of the music of Chopin .
+Adolf_von_Henselt	He was very good at playing widely spaced arpeggios and could make them sound very smooth ( legato ) even if he was not using the pedal .
+Adolf_von_Henselt	As a composer he is mostly remembered today for a few of his short works which are often quite sentimental , e.g. Frühlingslied ( Spring Song ) and Si oiseau j' étais ( If I were a bird ) .
+Aquarius_(sports_drink)	Aquarius is a mineral sports drink manufactured by The Coca-Cola Company .
+Aquarius_(sports_drink)	It was first introduced in 1983 in Japan as a sports drink .
+Aquarius_(sports_drink)	It was introduced to Spain and Portugal in 1991 , and it became the official drink of the 1992 Summer Olympics in Barcelona .
+Aquarius_(sports_drink)	Aquarius is available in Argentina , Belgium , Brazil , Iceland , Indonesia , Ireland , Italy , Japan , Luxembourg , Morocco , and Portugal .
+Aquarius_(sports_drink)	Flavors include carrot orange , citrus , honey lemon , lemon , orange , watermelon , and Coca-cola .
+Aquarius_(sports_drink)	This drink is known to be created for sports people after doing exercise , but also it is great for any other kind of people , as it 's refreshing .
+Aspen	Aspens are a type of poplar tree with leaves that move with the slightest wind .
+Aspen	The two main species are both called ` trembling aspens ' or ` quaking aspens ' on account of their leaves .
+Aspen	Populus tremuloides is the American aspen .
+Aspen	It is common in temperate and colder regions of North America .
+Aspen	It forms large stands ( groups ) of genetically identical trees ( clones ) connected by a single underground root system .
+Aspen	These trees form through root sprouts coming off an original parent tree .
+Aspen	The largest known fully connected aspen is a grove in Utah nicknamed ` Pando ' , and some experts call it the largest organism in the world , by mass or volume .
+Aspen	It covers 0.43 km2 ( 106 acres ) and is estimated to weigh 6,600 short tons ( 6,000 t ) .
+Aspen	Populus tremula is a species of poplar native to cool temperate regions of Europe and Asia , from the British Isles east to Kamchatka , north to inside the Arctic Circle in Scandinavia and northern Russia , and south to central Spain , Turkey , the Tian Shan mountain system , North Korea , and northern Japan .
+Aspen	It also occurs at one site in northwest Africa in Algeria .
+Aspen	In the south of its range , it occurs at high altitudes in mountains .
+Aspen	It is a hardy species which tolerates long , cold winters and short summers .
+Aspen	Aspen is dioecious , so individual trees are either male or female ( in contrast to most trees , where male and female flowers occur on the same tree ) .
+Aspen	Trees flower in March and April , before the leaves appear , with both the male and female trees producing catkins .
+Aspen	Pollinated female catkins ripen in early summer and release tiny seeds which are tufted with hairs .
+Aspen	Like other aspens , its main method of reproduction is vegetative ( asexual ) .
+Aspen	It spreads extensively by root sprouts , which may be produced up to 40 metres from the parent tree .
+Aspen	They form extensive clonal colonies .
+Aspen	Large numbers of new shoots can be produced in this way , especially after a major disturbance such as fire .
+A.C.F._Fiorentina	ACF Fiorentina ( Associazione Calcio Fiorentina e Florentia Viola ) , often called just and friendly Fiorentina , is an Italian professional football club from Florence , Tuscany .
+A.C.F._Fiorentina	Founded in 1926 .
+A.C.F._Fiorentina	Fiorentina have won Serie A twice , first in 1955\/56 then again in 1968\/69 , as well as winning six Coppa Italia trophies .
+A.C.F._Fiorentina	On the European stage Fiorentina have won the UEFA Cup Winners ' Cup in 1960\/61 , they finished runners-up in the UEFA Cup 1989\/90 and they also came close to winning the biggest European prize , finishing as runners-up in the European Cup during 1956\/57 .
+A.C.F._Fiorentina	1926-2002 AC Fiorentina .
+A.C.F._Fiorentina	2002-2003 Florentia Viola .
+A.C.F._Fiorentina	2003-present ACF Fiorentina .
+A.C.F._Fiorentina	Fiorentina is known by the nickname La viola ; a reference to their distinctive purple colors .
+Aegyptosaurus	Aegyptosaurus , meaning `` Egypt 's Lizard '' after the country where it was discovered ( comes from the Greek word sauros , which means ` lizard ' ) , is a genus of sauropod dinosaur that lived in Africa around 95 million years ago , during the Late Cretaceous period .
+Aegyptosaurus	Like most sauropods , it had a long neck and a small skull .
+Aegyptosaurus	The animal 's long tail probably acted as a counterweight to its body mass .
+Aegyptosaurus	Its tail also ended in a whip-like structure that it used to defend itself against predatory dinosaurs that lived in the same place and time as it , such as Carcharodontosaurus and Spinosaurus .
+Aegyptosaurus	Aegyptosaurus was a close relative of Argentinosaurus , a much larger dinosaur that lived in South America at about the same time .
+Aegyptosaurus	This suggests a possible land bridge between Africa and South America during the Cretaceous period .
+Aegyptosaurus	Aegyptosaurus was discovered and named by a German paleontologist named Ernst Stromer in 1932 .
+Aegyptosaurus	Its fossils have been found in Egypt , Niger , and in several different locations in the Sahara Desert .
+Aegyptosaurus	All known specimens were discovered before 1939 .
+Aegyptosaurus	The fossils were stored together in Munich , but were obliterated when an Allied bombing raid destroyed the museum where they were kept in 1944 , during World War II .
+Aegyptosaurus	The type species is Aegyptosaurus baharijensis , named after the Bahariya Formation in Egypt , where the first fossils were found .
+Aegyptosaurus	Aegyptosaurus was much smaller and more common than its contemporary , Paralititan .
+Aegyptosaurus	Predators probably hunted the smaller Aegyptosaurus more often than the huge Paralititan .
+Advaita_Vedanta	Advaita Vedanta is a type of Hinduism .
+Advaita_Vedanta	People who believe in Advaita believe that their soul is never really different from God .
+Advaita_Vedanta	The Sanskrit word for soul is Atman and the Sanskrit word for God is Brahman .
+Advaita_Vedanta	The most famous Hindu philosopher was named Adi Shankara who lived in India more than a thousand years ago .
+Advaita_Vedanta	Adi Sankara learned the sacred texts of Hinduism , like Vedas and Upanishads under his teacher Govinda Bhagavadpada and later wrote extensive commentaries of Hindu sacred texts called Upanishads .
+Advaita_Vedanta	In these commentaries , he proposed the theory of Advaita , saying that the Upanishad actually teach that the individual soul ( called Atman ) is not different from God ( called Brahman ) .
+Advaita_Vedanta	He also taught that there is only one essential principle called Brahman ( means God ) and everything else is a kind of expression of that one Brahman .
+Advaita_Vedanta	Because of this theory of one being , his teachings became popular as the `` Advaita '' ( a = not , dvaita = two , means no-two or non-dual ) .
+Advaita_Vedanta	The way he said this to people was `` Atman is Brahman . ''
+Advaita_Vedanta	Adi Shankara was very smart and knew that people would wonder how he could say such an odd thing .
+Advaita_Vedanta	He realized that many people would ask him , `` If a person 's soul is really one with God all along , then what makes a person feel so separate from God ? ''
+Advaita_Vedanta	His answer to this was that we are ignorant of our real self being God because we see through a kind of filter -- like looking through a dirty piece of glass -- and he called this filter we look through , maya , which means `` illusion '' in Sanskrit .
+Advaita_Vedanta	Shankara said that our ignorance makes us feel very separate from God , and even from everything around us .
+Advaita_Vedanta	Shankara suggested that the best way people can find the truth is for them to try to clear their thinking of all ignorant thoughts , be very good , and think very hard about who they really are .
+Advaita_Vedanta	He said that if a person did all these things he would realize that God was himself all along .
+Advaita_Vedanta	This is a very different idea from some other religions where we are told we are separate from God and need to go to Him .
+Advaita_Vedanta	In Advaita , the idea is that people never really were separate from God , but their ignorance made them see it that way .
+Advaita_Vedanta	Not all Hindus believe in Advaita Vedanta .
+Advaita_Vedanta	Many others believe there is a difference between a person 's soul and God , just like in many other religions .
+A1_Grand_Prix	A1 Grand Prix ( A1GP ) was a ` single make ' open wheel car auto racing series .
+A1_Grand_Prix	It was different from most racing series .
+A1_Grand_Prix	The drivers represented their nation as opposed to themselves or a team .
+A1_Grand_Prix	The series was ratified by the Fédération Internationale de l'Automobile ( FIA ) .
+A1_Grand_Prix	Races were held in the traditional Formula One off-season , winter the northern hemisphere .
+A1_Grand_Prix	The seeries was founded by Sheikh Maktoum Hasher Maktoum Al Maktoum of Dubai in 2003 .
+A1_Grand_Prix	Tony Teixeira took control of the series in 2006 , leading it to liquidation by 2009 .
+A1_Grand_Prix	The concept was founded by Sheikh Maktoum Hasher Maktoum Al Maktoum of Dubai in 2003 .
+A1_Grand_Prix	Brian Menell and Tony Teixeira were appointed to run the sale of franchises .
+A1_Grand_Prix	Thirty franchises were made available .
+A1_Grand_Prix	Twenty-five of the franchises were purchased for the 2005-06 A1 Grand Prix season .
+A1_Grand_Prix	It began on 25 September 2005 .
+A1_Grand_Prix	The first race was the A1 Grand Prix of Nations Great Britain at the Brands Hatch circuit in the United Kingdom .
+A1_Grand_Prix	The first season was planned for 12 rounds .
+A1_Grand_Prix	Eash round was two races in a weekend .
+A1_Grand_Prix	The Curitiba , Brazil in January 2006 was canceled .
+A1_Grand_Prix	Nelson Piquet , Jr. won the inaugural race of the series for A1 Team Brazil .
+A1_Grand_Prix	A1 Team France were crowned the first-ever A1 Grand Prix world champions with 172 points .
+A1_Grand_Prix	Switzerland were second with 121 points and A1 Team Great Britain third with 97 points .
+A1_Grand_Prix	The 2006-07 season started on 1 October 2006 at Circuit Park Zandvoort , and the last race at Brands Hatch on 29 April 2007 .
+A1_Grand_Prix	Team Germany won it with 128 points , 35 points lead ahead of Team New Zealand .
+A1_Grand_Prix	The 2008-09 season saw the new Powered by Ferrari A1GP car .
+A1_Grand_Prix	The opening of the 2009-10 season was canceled five days before practice was due to begin .
+A1_Grand_Prix	Due to the series ' financial problems , none of the scheduled races take place .
+A1_Grand_Prix	The cars and series infrastructure were tied up in London .
+A1_Grand_Prix	No comment was coming from A1GP .
+A1_Grand_Prix	More races were canceled .
+A1_Grand_Prix	An announcement made on 5 November 2009 stating that the races in China and Malaysia would not be taking place .
+A1_Grand_Prix	The last race that was to be held in the season was the Dutch round .
+A1_Grand_Prix	That race was change to a Superleague Formula race .
+A1_Grand_Prix	This ended the hopes the season would start and also put the future of the series in doubt .
+Academy_Award_for_Best_Picture_(1930s)	The Academy Award for Best Picture is one of the Academy Awards .
+Academy_Award_for_Best_Picture_(1930s)	Also called Oscars , the Academy Awards are given to people working in the movie industry by the American Academy of Motion Picture Arts and Sciences ( AMPAS ) .
+Academy_Award_for_Best_Picture_(1930s)	In the list below , the winner of the award for each year between 1930 and 1939 is shown first , followed by the other nominees .
+Academy_Award_for_Best_Picture_(1930s)	The name of the award becomes Best Picture in 1930 .
+Academy_Award_for_Best_Picture_(1930s)	1930-31 Cimarron - RKO Radio - William LeBaron .
+Academy_Award_for_Best_Picture_(1930s)	East Lynne - Fox - Winfield Sheehan , studio head .
+Academy_Award_for_Best_Picture_(1930s)	The Front Page - Caddo , United Artists - Howard Hughes .
+Academy_Award_for_Best_Picture_(1930s)	Skippy - Paramount - Adolph Zukor .
+Academy_Award_for_Best_Picture_(1930s)	Trader Horn - Metro-Goldwyn-Mayer - Irving G. Thalberg .
+Academy_Award_for_Best_Picture_(1930s)	1931-32 Grand Hotel - Metro-Goldwyn-Mayer - Irving Thalberg .
+Academy_Award_for_Best_Picture_(1930s)	Arrowsmith - Goldwyn , United Artists - Samuel Goldwyn .
+Academy_Award_for_Best_Picture_(1930s)	Bad Girl - Fox - Winfield Sheehan studio head .
+Academy_Award_for_Best_Picture_(1930s)	The Champ - Metro-Goldwyn-Mayer - King Vidor .
+Academy_Award_for_Best_Picture_(1930s)	Five Star Final - First National - Hal B. Wallis .
+Academy_Award_for_Best_Picture_(1930s)	One Hour with You - Paramount - Ernst Lubitsch .
+Academy_Award_for_Best_Picture_(1930s)	Shanghai Express - Paramount - Adolph Zukor .
+Academy_Award_for_Best_Picture_(1930s)	The Smiling Lieutenant - Paramount - Ernst Lubitsch .
+Academy_Award_for_Best_Picture_(1930s)	1932-33 Cavalcade - Fox - Winfield Sheehan studio head .
+Academy_Award_for_Best_Picture_(1930s)	42nd Street - Warner Bros. - Darryl F. Zanuck .
+Academy_Award_for_Best_Picture_(1930s)	A Farewell to Arms - Paramount - Adolph Zukor .
+Academy_Award_for_Best_Picture_(1930s)	I Am a Fugitive from a Chain Gang - Warner Bros. - Hal B. Wallis .
+Academy_Award_for_Best_Picture_(1930s)	Lady for a Day - Columbia - Frank Capra .
+Academy_Award_for_Best_Picture_(1930s)	Little Women - RKO Radio - Merian C. Cooper with Kenneth MacGowan .
+Academy_Award_for_Best_Picture_(1930s)	The Private Life of Henry VIII - London Movies , United Artists ( British ) - Alexander Korda .
+Academy_Award_for_Best_Picture_(1930s)	She Done Him Wrong - Paramount - William LeBaron .
+Academy_Award_for_Best_Picture_(1930s)	Smilin ' Through - Metro-Goldwyn-Mayer - Irving Thalberg .
+Academy_Award_for_Best_Picture_(1930s)	State Fair - Fox - Winfield Sheehan studio head .
+Academy_Award_for_Best_Picture_(1930s)	1934 It Happened One Night - Columbia - Harry Cohn .
+Academy_Award_for_Best_Picture_(1930s)	The Barretts of Wimpole Street - Metro-Goldwyn-Mayer - Irving Thalberg .
+Academy_Award_for_Best_Picture_(1930s)	Cleopatra - Paramount - Cecil B. DeMille .
+Academy_Award_for_Best_Picture_(1930s)	Flirtation Walk - First National - Jack L. Warner , Hal B. Wallis with Robert Lord .
+Academy_Award_for_Best_Picture_(1930s)	The Gay Divorcee - RKO Radio - Pendro S. Berman .
+Academy_Award_for_Best_Picture_(1930s)	Here Comes the Navy - Warner Bros. - Lou Edelman .
+Academy_Award_for_Best_Picture_(1930s)	The House of Rothschild - Twentieth Century Pictures , United Artists - Darryl F. Zanuck with William Goetz and Raymond Griffith .
+Academy_Award_for_Best_Picture_(1930s)	Imitation of Life - Universal - John M. Stahl .
+Academy_Award_for_Best_Picture_(1930s)	One Night of Love - Columbia - Harry Cohn with Everett Riskin .
+Academy_Award_for_Best_Picture_(1930s)	The Thin Man - Metro-Goldwyn-Mayer - Hunt Stromberg .
+Academy_Award_for_Best_Picture_(1930s)	Viva Villa !
+Academy_Award_for_Best_Picture_(1930s)	- Metro-Goldwyn-Mayer - David O. Selznick .
+Academy_Award_for_Best_Picture_(1930s)	The White Parade - Fox - Jesse L. Lasky .
+Academy_Award_for_Best_Picture_(1930s)	1935 Mutiny on the Bounty - Metro-Goldwyn-Mayer - Irving Thalberg with Albert Lewin .
+Academy_Award_for_Best_Picture_(1930s)	Alice Adams - RKO Radio - Pendro S. Berman .
+Academy_Award_for_Best_Picture_(1930s)	Broadway Melody of 1936 - Metro-Goldwyn-Mayer - John W. Considine Jr. .
+Academy_Award_for_Best_Picture_(1930s)	Captain Blood - Warner Bros.-Cosmopolitan - Hal B. Wallis with Harry Joe Brown and Gordon Hollingshead .
+Academy_Award_for_Best_Picture_(1930s)	David Copperfield - Metro-Goldwyn-Mayer - David O. Selznick .
+Academy_Award_for_Best_Picture_(1930s)	The Informer - RKO Radio - Cliff Reid .
+Academy_Award_for_Best_Picture_(1930s)	The Lives of a Bengal Lancer - Paramount - Louis D. Lighton .
+Academy_Award_for_Best_Picture_(1930s)	A Midsummer Night 's Dream - Warner Bros. - Henry Blanke .
+Academy_Award_for_Best_Picture_(1930s)	Les Misérables - 20th Century , United Artists - Darryl F. Zanuck .
+Academy_Award_for_Best_Picture_(1930s)	Naughty Marietta - Metro-Goldwyn-Mayer - Hunt Stromberg .
+Academy_Award_for_Best_Picture_(1930s)	Ruggles of Red Gap - Paramount - Arthur Hornblow , Jr. .
+Academy_Award_for_Best_Picture_(1930s)	Top Hat - RKO Radio - Pendro S. Berman .
+Academy_Award_for_Best_Picture_(1930s)	1936 The Great Ziegfeld - Metro-Goldwyn-Mayer - Hunt Stromberg .
+Academy_Award_for_Best_Picture_(1930s)	Anthony Adverse - Warner Bros. - Henry Blanke .
+Academy_Award_for_Best_Picture_(1930s)	Dodsworth - Goldwyn , United Artists - Samuel Goldwyn with Merritt Hulbert .
+Academy_Award_for_Best_Picture_(1930s)	Libeled Lady - Metro-Goldwyn-Mayer - Lawrence Weingarten .
+Academy_Award_for_Best_Picture_(1930s)	Mr. Deeds Goes to Town - Columbia - Frank Capra .
+Academy_Award_for_Best_Picture_(1930s)	Romeo and Juliet - Metro-Goldwyn-Mayer - Irving Thalberg .
+Academy_Award_for_Best_Picture_(1930s)	San Francisco - Metro-Goldwyn-Mayer - John Emerson and Bernard H. Hyman .
+Academy_Award_for_Best_Picture_(1930s)	The Story of Louis Pasteur - Warner Bros. - Henry Blanke .
+Academy_Award_for_Best_Picture_(1930s)	A Tale of Two Cities - Metro-Goldwyn-Mayer - David O. Selznick .
+Academy_Award_for_Best_Picture_(1930s)	Three Smart Girls - Universal - Joe Pasternak with Charles R. Rogers .
+Academy_Award_for_Best_Picture_(1930s)	1937 The Life of Emile Zola - Warner Bros. - Henry Blanke .
+Academy_Award_for_Best_Picture_(1930s)	The Awful Truth - Columbia - Leo McCarey with Everett Riskin .
+Academy_Award_for_Best_Picture_(1930s)	Captains Courageous - Metro-Goldwyn-Mayer - Louis Lighton .
+Academy_Award_for_Best_Picture_(1930s)	Dead End - Goldwyn , United Artists - Samuel Goldwyn with Merritt Hulbert .
+Academy_Award_for_Best_Picture_(1930s)	The Good Earth - Metro-Goldwyn-Mayer - Irving Thalberg with Albert Lewin .
+Academy_Award_for_Best_Picture_(1930s)	In Old Chicago - 20th Century-Fox - Darryl F. Zanuck with Kenneth MacGowan .
+Academy_Award_for_Best_Picture_(1930s)	Lost Horizon - Columbia - Frank Capra .
+Academy_Award_for_Best_Picture_(1930s)	One Hundred Men and a Girl - Universal - Charles R. Rogers with Joe Pasternak .
+Academy_Award_for_Best_Picture_(1930s)	Stage Door - RKO Radio - Pendro S. Berman .
+Academy_Award_for_Best_Picture_(1930s)	A Star Is Born - Selznick International , United Artists - David O. Selznick .
+Academy_Award_for_Best_Picture_(1930s)	1938 You Ca n't Take it With You - Columbia - Frank Capra .
+Academy_Award_for_Best_Picture_(1930s)	The Adventures of Robin Hood - Warner Bros. - Hal B. Wallis with Henry Blanke .
+Academy_Award_for_Best_Picture_(1930s)	Alexander 's Ragtime Band - 20th Century-Fox - Darryl F. Zanuck with Harry Joe Brown .
+Academy_Award_for_Best_Picture_(1930s)	Boys Town - Metro-Goldwyn-Mayer - John W. Considine , Jr. .
+Academy_Award_for_Best_Picture_(1930s)	The Citadel - Metro-Goldwyn-Mayer ( British ) - Victor Saville .
+Academy_Award_for_Best_Picture_(1930s)	Four Daughters - Warner Bros.-First National - Hal B. Wallis with Henry Blanke .
+Academy_Award_for_Best_Picture_(1930s)	La Grande illusion - R. A. O. , World Pictures ( French ) - Frank Rollmer , and Albert Pinkovitch .
+Academy_Award_for_Best_Picture_(1930s)	Jezebel - Warner Bros. - Hal B. Wallis with Henry Blanke .
+Academy_Award_for_Best_Picture_(1930s)	Pygmalion - Metro-Goldwyn-Mayer ( British ) - Gabriel Pascal .
+Academy_Award_for_Best_Picture_(1930s)	Test Pilot - Metro-Goldwyn-Mayer - Louis Lighton .
+Academy_Award_for_Best_Picture_(1930s)	1939 Gone with the Wind - Selznick , Metro-Goldwyn-Mayer - David O. Selznick .
+Academy_Award_for_Best_Picture_(1930s)	Dark Victory - Warner Bros. - David Lewis .
+Academy_Award_for_Best_Picture_(1930s)	Goodbye , Mr. Chips - Metro-Goldwyn-Mayer ( British ) - Victor Saville .
+Academy_Award_for_Best_Picture_(1930s)	Love Affair - RKO Radio - Leo McCarey .
+Academy_Award_for_Best_Picture_(1930s)	Mr. Smith Goes to Washington - Columbia - Frank Capra .
+Academy_Award_for_Best_Picture_(1930s)	Ninotchka - Metro-Goldwyn-Mayer - Sidney Franklin .
+Academy_Award_for_Best_Picture_(1930s)	Of Mice and Men - Roach , United Artists - Lewis Milestone .
+Academy_Award_for_Best_Picture_(1930s)	The Wizard of Oz - Metro-Goldwyn-Mayer - Mervyn LeRoy .
+Academy_Award_for_Best_Picture_(1930s)	Wuthering Heights - Goldwyn , United Artists - Samuel Goldwyn .
+Alexander_the_Great	Alexander the Great ( July 20 or 26 , 356 BC - June 10 323 BC ) was an Ancient Greek king of the kingdom of Macedon .
+Alexander_the_Great	He was born in the city of Pella and his father was the king Philip II .
+Alexander_the_Great	He was taught most of his skills in Athens during his childhood .
+Alexander_the_Great	He was taught by a great teacher and world famous philosopher named Aristotle , and through his teachings he became the world 's first great military commander .
+Alexander_the_Great	At the age of 20 he became the king of Macedonia , after his father had been assassinated by a former bodyguard .
+Alexander_the_Great	He wanted to rule a large empire called Persia .
+Alexander_the_Great	He is often listed as one of the greatest military commanders in history , along with Hannibal Barca , Ashoka the Great , Julius Caesar , Genghis Khan , Subutai , Napoleon I of France , and others .
+Alexander_the_Great	However , his men soon grew tired of traveling so far , and threatened to revolt .
+Alexander_the_Great	Around India , he finally agreed to turn back .
+Alexander_the_Great	By the time of his death he had conquered most of the Middle Eastern world known to Europeans , which included ancient Persia , Egypt , and Asia Minor .
+Alexander_the_Great	He died in Babylon in 323 BC of an unknown cause .
+Alexander_the_Great	Nobody knows the cause of Alexander 's death .
+Alexander_the_Great	Some people have said his death was caused by poison in wine , murder or a fever after a battle .
+Ashtown_Castle	Ashtown Castle is a towerhouse in the Phoenix Park in Dublin .
+Ashtown_Castle	It is now part of the Phoenix Park Visitor Centre .
+Ashtown_Castle	It is not clear when the castle was first built .
+Ashtown_Castle	It might date back as far as 1430 .
+Ashtown_Castle	The roof dates from the 17th century .
+Ashtown_Castle	After the building was made bigger and improved , it was used as the house for the Under Secretary of Ireland from 1782 .
+Ashtown_Castle	In 1922 , it became the house for the first United States ambassador to Ireland .
+Ashtown_Castle	After the ambassador moved to the Chief Secretary 's Lodge , the Papal nuncio used the building until 1978 when he moved .
+Ashtown_Castle	In 1978 , the building was in bad shape .
+Ashtown_Castle	It could not be repaired .
+Ashtown_Castle	When they started to break down the building , they found the towerhouse inside the bigger building .
+Ashtown_Castle	It was restored to its old form .
+Arrangement_(music)	An arrangement of a musical composition is a reworking of a piece of music so that it can be played by a different instrument or combination of instruments from the original .
+Arrangement_(music)	For example , a song written for one voice with piano accompaniment might be arranged so that it can be sung in parts by a choir , or a piece for violin might be arranged so that it can be played on a clarinet instead .
+Arrangement_(music)	The person who does the arrangement may be the composer himself , or it may be someone else .
+Arrangement_(music)	In music history , composers often published their compositions , saying that the music could be played or sung by various instruments .
+Arrangement_(music)	For example , when English composers published madrigals in the late 16th century they often stated that they could be sung by singers or played on viols ( `` apt for voices as for viols '' ) .
+Arrangement_(music)	In the Classical music period a composer might publish a sonata , stating that it could be played on the violin or flute or recorder .
+Arrangement_(music)	This helped to sell more copies , because violinists , flautists and recorder players might all want to buy the music .
+Arrangement_(music)	In a sense this is not really an arrangement , because no changes have been made to the music .
+Arrangement_(music)	However , when violin or cello music is arranged so that it can be played on a viola , some changes may be necessary as the viola may be playing in a different key , or some chords may be more awkward the way they were originally written .
+Arrangement_(music)	This in an arrangement .
+Arrangement_(music)	A popular piece such as The Flight of the Bumble Bee by Rimsky-Korsakov can be played by almost any melodic instrument : violin , xylophone , tuba etc. .
+Arrangement_(music)	These are all arrangements .
+Arrangement_(music)	When a piece for choir and orchestra is printed for choir members to use , the orchestral part is printed on two staves so that it can be played on a piano for rehearsals .
+Arrangement_(music)	This is another kind of arrangement .
+Arrangement_(music)	In music history , many composers have made arrangements of music composed by others .
+Arrangement_(music)	They did this in order to learn about musical composition , as well as in order to be able to play it on another instrument .
+Arrangement_(music)	For example , Johann Sebastian Bach made arrangements of four concertos by Vivaldi so that they could be played on the organ .
+Arrangement_(music)	Arrangements are often made by people who play instruments that have not had much music written for them .
+Arrangement_(music)	People who play the viola , guitar , tuba etc often arrange other music so that they have a larger repertoire ( more music to play ) .
+Arrangement_(music)	Sometimes composers have made changes to the orchestration of works for orchestra written by others .
+Arrangement_(music)	They may have done this because instruments had changed since the music was written , or simply because they thought they could do it better .
+Arrangement_(music)	For example , Mozart made an arrangement of Handels Messiah , adding instruments such as clarinets which Handel would not have known .
+Arrangement_(music)	Rimsky-Korsakov made arrangements of the operas by Musorgsky thinking that he was improving them .
+Arrangement_(music)	Arrangements are sometimes made because a player has some disability .
+Arrangement_(music)	Cyril Smith , a pianist who only had one arm , played piano duets with his wife Phyllis Sellick .
+Arrangement_(music)	They arranged piano duets so that they could be played by three hands .
+Arrangement_(music)	Sometimes arrangements are made of well-known classical pieces in which the music is `` jazzed up '' or made to sound more popular for movie or theater performances .
+Arrangement_(music)	Sometimes musicians think this is not a good thing .
+Arrangement_(music)	Sometimes small vocal groups such as the Swingle Singers make lighthearted versions of works by Bach and others .
+Arrangement_(music)	Musicians will never all agree about which is better : an arrangement or the original version .
+Arrangement_(music)	Each piece of music should really be judged on its own .
+Academy_Award_for_Best_Picture_(1950s)	The Academy Award for Best Picture is one of the Academy Awards .
+Academy_Award_for_Best_Picture_(1950s)	Also called Oscars , the Academy Awards are given to people working in the movie industry by the American Academy of Motion Picture Arts and Sciences ( AMPAS ) .
+Academy_Award_for_Best_Picture_(1950s)	In the list below , the winner of the award for each year from 1950 to 1959 is shown first , followed by the other nominees .
+Academy_Award_for_Best_Picture_(1950s)	1950 All About Eve - 20th Century-Fox - Darryl F. Zanuck .
+Academy_Award_for_Best_Picture_(1950s)	Born Yesterday - Columbia - S. Sylvan Simon .
+Academy_Award_for_Best_Picture_(1950s)	Father of the Bride - Metro-Goldwyn-Mayer - Pandro S. Berman .
+Academy_Award_for_Best_Picture_(1950s)	King Solomon 's Mines - Metro-Goldwyn-Mayer - Sam Zimbalist .
+Academy_Award_for_Best_Picture_(1950s)	Sunset Boulevard - Paramount - Charles Brackett .
+Academy_Award_for_Best_Picture_(1950s)	1951 An American in Paris - Metro-Goldwyn-Mayer - Arthur Freed .
+Academy_Award_for_Best_Picture_(1950s)	Decision Before Dawn - 20th Century-Fox - Anatole Litvak and Frank McCarthy .
+Academy_Award_for_Best_Picture_(1950s)	A Place in the Sun - Paramount - George Stevens .
+Academy_Award_for_Best_Picture_(1950s)	Quo Vadis - Metro-Goldwyn-Mayer - Sam Zimbalist .
+Academy_Award_for_Best_Picture_(1950s)	A Streetcar Named Desire - Feldman , Warner Bros. - Charles K. Feldman .
+Academy_Award_for_Best_Picture_(1950s)	1952 The Greatest Show on Earth - DeMille , Paramount - Cecil B. DeMille .
+Academy_Award_for_Best_Picture_(1950s)	High Noon - United Artists - Stanley Kramer .
+Academy_Award_for_Best_Picture_(1950s)	Ivanhoe - Metro-Goldwyn-Mayer - Pandro S. Berman .
+Academy_Award_for_Best_Picture_(1950s)	Moulin Rouge - United Artists - John Huston .
+Academy_Award_for_Best_Picture_(1950s)	The Quiet Man - Argosy , Republic - John Ford and Merian C. Cooper .
+Academy_Award_for_Best_Picture_(1950s)	1953 From Here to Eternity - Columbia - Buddy Adler .
+Academy_Award_for_Best_Picture_(1950s)	Julius Caesar - Metro-Goldwyn-Mayer - John Houseman .
+Academy_Award_for_Best_Picture_(1950s)	The Robe - 20th Century-Fox - Frank Ross .
+Academy_Award_for_Best_Picture_(1950s)	Roman Holiday - Paramount - William Wyler .
+Academy_Award_for_Best_Picture_(1950s)	Shane - Paramount - George Stevens .
+Academy_Award_for_Best_Picture_(1950s)	1954 On the Waterfront - Horizon-American , Columbia - Sam Spiegel .
+Academy_Award_for_Best_Picture_(1950s)	The Caine Mutiny - Kramer , Columbia - Stanley Kramer .
+Academy_Award_for_Best_Picture_(1950s)	The Country Girl - Perlberg-Seaton , Paramount - William Perlberg .
+Academy_Award_for_Best_Picture_(1950s)	Seven Brides for Seven Brothers - Metro-Goldwyn-Mayer - Jack Cummings .
+Academy_Award_for_Best_Picture_(1950s)	Three Coins in the Fountain - 20th Century-Fox - Sol C. Siegel .
+Academy_Award_for_Best_Picture_(1950s)	1955 Marty - Hecht-Lancaster , United Artists - Harold Hecht .
+Academy_Award_for_Best_Picture_(1950s)	Love Is a Many-Splendored Thing - 20th Century-Fox - Buddy Adler .
+Academy_Award_for_Best_Picture_(1950s)	Mister Roberts - Orange , Warner Bros. - Leland Hayward .
+Academy_Award_for_Best_Picture_(1950s)	Picnic - Columbia - Fred Kohlmar .
+Academy_Award_for_Best_Picture_(1950s)	The Rose Tattoo - Wallis , Paramount - Hal B. Wallis .
+Academy_Award_for_Best_Picture_(1950s)	1956 Around the World in Eighty Days - Todd , United Artists - Michael Todd .
+Academy_Award_for_Best_Picture_(1950s)	Friendly Persuasion - Allied Artists - William Wyler .
+Academy_Award_for_Best_Picture_(1950s)	Giant - Warner Bros. - George Stevens and Henry Ginsberg .
+Academy_Award_for_Best_Picture_(1950s)	The King and I - 20th Century-Fox - Charles Brackett .
+Academy_Award_for_Best_Picture_(1950s)	The Ten Commandments - DeMille , Paramount - Cecil B. DeMille .
+Academy_Award_for_Best_Picture_(1950s)	1957 The Bridge on the River Kwai - Horizon , Columbia - Sam Spiegel .
+Academy_Award_for_Best_Picture_(1950s)	Peyton Place - 20th Century-Fox - Jerry Wald .
+Academy_Award_for_Best_Picture_(1950s)	Sayonara - Goetz , Warner Bros. - William Goetz .
+Academy_Award_for_Best_Picture_(1950s)	12 Angry Men - Orion-Nova , United Artists - Henry Fonda , and Reginald Rose .
+Academy_Award_for_Best_Picture_(1950s)	Witness for the Prosecution - Small-Hornblow , United Artists - Arthur Hornblow , Jr. .
+Academy_Award_for_Best_Picture_(1950s)	1958 Gigi - Metro-Goldwyn-Mayer - Arthur Freed .
+Academy_Award_for_Best_Picture_(1950s)	Auntie Mame - Warner Bros. - Jack L. Warner .
+Academy_Award_for_Best_Picture_(1950s)	Cat on a Hot Tin Roof - Metro-Goldwyn-Mayer - Lawrence Weingarten .
+Academy_Award_for_Best_Picture_(1950s)	The Defiant Ones - Kramer , United Artists - Stanley Kramer .
+Academy_Award_for_Best_Picture_(1950s)	Separate Tables - Hecht-Hill-Lancaster , United Artists - Harold Hecht .
+Academy_Award_for_Best_Picture_(1950s)	1959 Ben-Hur - Metro-Goldwyn-Mayer - Sam Zimbalist .
+Academy_Award_for_Best_Picture_(1950s)	Anatomy of a Murder - Preminger , Columbia - Otto Preminger .
+Academy_Award_for_Best_Picture_(1950s)	The Diary of Anne Frank - 20th Century-Fox - George Stevens .
+Academy_Award_for_Best_Picture_(1950s)	The Nun 's Story - Warner Bros. - Henry Blanke .
+Academy_Award_for_Best_Picture_(1950s)	Room at the Top - Romulus , Continental ( British ) - John Woolf and James Woolf .
+Aboriginal_land_rights_in_Australia	Aboriginal land rights in Australia are the special set of rights given to Indigenous Australians to own land .
+Aboriginal_land_rights_in_Australia	There are many different types of land rights laws .
+Aboriginal_land_rights_in_Australia	They all allow the government to grant land to indigenous ( native ) Australians under many different conditions ( terms ) .
+Aboriginal_land_rights_in_Australia	Land rights schemes are in place in the Northern Territory , Queensland , New South Wales , South Australia , and Victoria .
+Aboriginal_land_rights_in_Australia	Under these laws , the title to the land is normally given to a community or ethnic group , not an individual .
+Aboriginal_land_rights_in_Australia	Usually , land that has been granted in a land rights claim can not be sold , traded , or mortgaged .
+Aboriginal_land_rights_in_Australia	Grants will be normally require that the land be passed down to future generations through inheritance .
+Aboriginal_land_rights_in_Australia	The passing of Aboriginal land rights laws in Australia was caused by many important Aboriginal protests .
+Aboriginal_land_rights_in_Australia	It was not until the 1970s , though , that there came an organised movement for the recognition of Aboriginal land rights .
+Aboriginal_land_rights_in_Australia	On 1 May 1946 , more than 800 Aboriginal stockmen in the Pilbara region of Western Australia went on strike .
+Aboriginal_land_rights_in_Australia	They demanded wages for their work .
+Aboriginal_land_rights_in_Australia	They were joined by other Aboriginal workers from the towns of Port Hedland and Marble Bar .
+Aboriginal_land_rights_in_Australia	The strike ended in 1949 .
+Aboriginal_land_rights_in_Australia	In 1963 , the government turned part of the Yolngu people 's traditional lands ( in Arnhem Land ) into a bauxite mine .
+Aboriginal_land_rights_in_Australia	The Yolngu started a petition ( now called the Yirrkala bark petitions ) to demand the rights to these lands .
+Aboriginal_land_rights_in_Australia	The petition was turned into a legal case .
+Aboriginal_land_rights_in_Australia	Mining went ahead anyway , and the legal case went on for 41 years .
+Aboriginal_land_rights_in_Australia	The Yolngu were finally made a part of the agreement between the government and the mining company in 2011 .
+Aboriginal_land_rights_in_Australia	In 1964 and 1965 , students from the University of Sydney formed a group called the Student Action for Aboriginals .
+Aboriginal_land_rights_in_Australia	They traveled into New South Wales country towns to research segregation between native and non-native people .
+Aboriginal_land_rights_in_Australia	They led protests to get people to know about the issue of Aboriginal civil rights .
+Aboriginal_land_rights_in_Australia	It became known as the Freedom Ride movement .
+Aboriginal_land_rights_in_Australia	At the time , Aboriginal people were not counted in the census and their civil rights were different to white citizens .
+Aboriginal_land_rights_in_Australia	This changed in 1967 , when a referendum gave Aborigines the same rights as white Australians .
+Aboriginal_land_rights_in_Australia	The Wave Hill walkoff was in August 1966 .
+Aboriginal_land_rights_in_Australia	A total of 200 Gurindji stockmen and servants at Wave Hill cattle station went on strike to demand wages and the return of some of their traditional lands .
+Aboriginal_land_rights_in_Australia	The strike went for nine years .
+Aboriginal_land_rights_in_Australia	The demand was not met , but the Gurindji stayed camped on their traditional country .
+Aboriginal_land_rights_in_Australia	They chose to break the state 's law but obey their own .
+Aboriginal_land_rights_in_Australia	It raised popular support for Aboriginal land rights .
+Aboriginal_land_rights_in_Australia	Supporters in the cities rallied for the Gurindji and eventually they won title to part of their land .
+Aerospace_engineering	Aerospace engineering is a field of engineering that specializes in vehicles that move in fluids .
+Aerospace_engineering	This usually means working with airplanes , cars , boats , trains , or spacecrafts .
+Aerospace_engineering	To work in Aerospace engineering you must learn a lot .
+Aerospace_engineering	This is done depending on what you want to do .
+Aerospace_engineering	Aerospace engineers ( those who design and oversee repair of vehicles ) study at a university or college and must earn a degree .
+Aerospace_engineering	Technicians ( those who repair and construct vehicles ) will do a shorter course and ` on the job ' training .
+Aerospace_engineering	Aerospace jobs include astronauts , pilots , and other professionals .
+American_Lacrosse_Conference	The American Lacrosse Conference is a group of colleges and universities in the eastern half of the United States that play NCAA Division I women 's lacrosse against one another each season .
+American_Lacrosse_Conference	Women 's lacrosse is the only sport that this conference plays-all members are in other conferences for other sports .
+American_Lacrosse_Conference	The conference champion earns a spot in the NCAA Division I women 's lacrosse tournament .
+American_Lacrosse_Conference	Current members are : University of Florida .
+American_Lacrosse_Conference	Johns Hopkins University .
+American_Lacrosse_Conference	University of Michigan .
+American_Lacrosse_Conference	Northwestern University .
+American_Lacrosse_Conference	Ohio State University .
+American_Lacrosse_Conference	Pennsylvania State University .
+American_Lacrosse_Conference	Vanderbilt University .
+Ashley_Tisdale	Ashley Tisdale ( born July 2 , 1985 , Monmouth County , New Jersey ) is an American actress and singer .
+Ashley_Tisdale	She is known for co-starring in the movies High School Musical , High School Musical 2 and High School Musical 3 .
+Ashley_Tisdale	She also played candy counter girl , Maddie Fitzpatrick , on the Disney Channel television series The Suite Life of Zack and Cody .
+Ashley_Tisdale	She began singing and acting at an early age .
+Ashley_Tisdale	Her first studio album was called Headstrong .
+Ashley_Tisdale	Some of her songs are `` Be Good to Me '' , `` Headstrong '' , `` Not that Girl '' and `` Over It '' .
+Ashley_Tisdale	Her newest album is Guilty Pleasure .
+Ashley_Tisdale	The songs on it include `` It 's Alright It 's Ok '' , `` Hot Mess '' , `` Hair '' and `` Crank it up '' .
+Ashley_Tisdale	Her original hair color is brown but she changed it for the series The Suite Life of Zack and Cody ( source ? )
+Ashley_Tisdale	.
+Ashley_Tisdale	She also lends her voice to the animated series Phineas and Ferb .
+Ashley_Tisdale	She has earned up to 2.5 million dollar due to the High School Musical movies .
+Ashley_Tisdale	Ashley worked on series Suite Life of Zack and Cody for three years .
+Ashley_Tisdale	She also did one episode of Suite Life On Deck .
+Ashley_Tisdale	Her sister Jennifer Tisdale is also an actor .
+Ashley_Tisdale	Her parents are Mike Tisdale and Lisa Tisdale .
+Akilattirattu_Ammanai	The title is shortened as Akilam .
+Akilattirattu_Ammanai	This is the largest Ammanai work .
+Akilattirattu_Ammanai	According to the book , Hari Gopalan Citar wrote this book on the twenty-seventh day of the Tamil month of Karthikai ( November\/December ) in the year 1016 ME ( 1841 CE ) .
+Akilattirattu_Ammanai	The author says that God woke him up during his sleep and ordered him to take the first words from what he said .
+Akilattirattu_Ammanai	Akilathirattu was recorded on palm leaves .
+Akilattirattu_Ammanai	Then in 1939 it was given printed form .
+Akilattirattu_Ammanai	According to the author , the book is the story of God coming in this age , the Kali Yukam or Iron Age , to rule the world by transforming it into that of Dharma Yukam .
+Akilattirattu_Ammanai	This story of faith has woven together the historical facts about Ayya Vaikundar and his activities , with mixing of episodes from the Hindu Puranas ( mythologies ) and Itihasas ( epics ) .
+Akilattirattu_Ammanai	It is presented as if Vishnu is telling the whole story to his consort Lakshmi .
+Akilattirattu_Ammanai	Though the Citar Hari Gopalan wrote the book Akilam , as per him , he did not know any thing about the contents of the book .
+Akilattirattu_Ammanai	He woke up in the morning as usual and he did not know what he had written the day before .
+Akilattirattu_Ammanai	As soon as Ayya Vaikundar attained Vaikundam , the tied-up palm leaf text , which was until then not opened .
+Akilattirattu_Ammanai	It was there the regulations of Ayyavazhi contains .
+Akilattirattu_Ammanai	As per the instructions found there in Akilam , Ayyavazhi was preached by the Citars far and wide .
+Archivist	An archivist is a professional who collects , organizes , preserves , maintains control over , and provides access to information determined to have long-term value .
+Archivist	The information maintained by an archivist can be any form of media ( photographs , video or sound recordings , letters , documents , electronic records , etc. ) .
+Archivist	As Richard Pearce-Moses wrote , `` Archivists keep records that have enduring value as reliable memories of the past , and they help people find and understand the information they need in those records . ''
+Archivist	Determining what records have enduring value is not always easy .
+Archivist	Archivists must also select records valuable enough to justify the costs of storage and preservation , plus the labor intensive expenses of arrangement , description , and reference service .
+Archivist	The theory and scholarly work underpinning archives practices is called archival science .
+Aemilianus	Aemilianus ( Marcus Aemilius Aemilianus Augustus ) was an emperor of Rome in the 3rd century AD .
+Aemilianus	He ruled for 3 months in 253AD .
+Aemilianus	He was born in Tunisia in North Africa .
+Aemilianus	He was a military commander and was sent to defend the Danube to defend it .
+Aemilianus	After defeating the Goths ( a barbarian tribe ) in modern-day Bulgaria , his soldiers proclaimed him as an Emperor instead of Trebonianus Gallus , the emperor at the time .
+Aemilianus	After defeating Gallus in battle at Interamna ( Northern Italy ) , he captured the capital city of the empire , Rome .
+Aemilianus	When Valerianus , Governor of Roman Germany , arrived in Italy ) bringing troops to reenforce Gallus , Aemilianus ' troops killed him .
+Aemilianus	They did not want a civil war and Valerian had a bigger army than Aemilianus .
+Armed_Forces_of_the_Russian_Federation	The Armed Forces of the Russian Federation is the armed forces of Russia , created after the breakup of the Soviet Union .
+Armed_Forces_of_the_Russian_Federation	The Armed Forces is known to be one of the biggest in the world with about 1,200,000 troops active .
+Armed_Forces_of_the_Russian_Federation	Russia also makes its own weapons .
+Armed_Forces_of_the_Russian_Federation	The Armed Forces has 6 branches : Russian Air Force , Russian Ground Forces , Russian Navy , Strategic Missile Troops , Russian Space Troops and the Russian Airborne Troops .
+Armed_Forces_of_the_Russian_Federation	The current Commander-In-Chief is President Dmitry Medvedev .
+Armed_Forces_of_the_Russian_Federation	When the Soviet Union broke up , Russia was left with nothing .
+Armed_Forces_of_the_Russian_Federation	The country 's president Boris Yeltsin , had to fix Russia and put in a military .
+Armed_Forces_of_the_Russian_Federation	So , Yeltsin appointed himself the Russian minister of defense .
+Armed_Forces_of_the_Russian_Federation	Eventually , CIS helped Russia get it 's defense into shape .
+Armed_Forces_of_the_Russian_Federation	Then in 1993 , a doctrine was made to set up the official military .
+Armed_Forces_of_the_Russian_Federation	As of 2008 , 480,000 men joined the Armed Forces of the Russian Federation .
+Armed_Forces_of_the_Russian_Federation	The term is usually a year .
+Armed_Forces_of_the_Russian_Federation	Russians can join at the age of 18 to 27 years old .
+Acherontia_atropos	Acherontia atropos is the most widely-known of the three species of Death 's - head Hawkmoth .
+Acherontia_atropos	A. atropos has a wingspan of 10 to 13 cm ( 3.9 to 5.1 in ) .
+Acherontia_atropos	The top wings are mainly dark brown or black .
+Acherontia_atropos	They are powdered with white .
+Acherontia_atropos	There are many black and dark red stripes .
+Acherontia_atropos	There is a small white spot in the center of each top wing .
+Acherontia_atropos	The bottom wing is yellow or yellow-brown .
+Acherontia_atropos	There are two black lines near the edge of each wing .
+Acherontia_atropos	The head and thorax are dark brown or black .
+Acherontia_atropos	They are the same color as the top wings .
+Acherontia_atropos	On the thorax , there is a dark brown spot that looks like a human skull .
+Acherontia_atropos	This is where the moth gets its name .
+Acherontia_atropos	However , some individuals do not have this spot .
+Acherontia_atropos	The abdomen is blackish-blue .
+Acherontia_atropos	There are is a row of yellow spots on each side of the abdomen .
+Acherontia_atropos	It is found from northern Africa to the Middle East .
+Acherontia_atropos	It can be found as far north as southern Great Britain .
+Acherontia_atropos	It can also be found on the Canary Islands , Madeira , and the Azores .
+Acherontia_atropos	A. atropos is seen from March to September in its normal range .
+Acherontia_atropos	However , they will sometimes be seen as early as February and as late as October .
+Acherontia_atropos	They have many broods ( a brood is a group of offspring ) each year .
+Acherontia_atropos	A. atropos is able to make a loud cry if it is attacked by predators .
+Acherontia_atropos	It can make this sound by pushing air out of its proboscis ( the proboscis is the moth 's mouth ) .
+Acherontia_atropos	If this does not scare the predator away , it will quickly flash its abdomen , showing the yellow spots .
+Acherontia_atropos	A. atropos is most active from evening to after midnight .
+Acherontia_atropos	It is attracted to lights .
+Acherontia_atropos	It will feed on the nectar of Potato , Tobacco , Sweet William , and Orange blossoms .
+Acherontia_atropos	At night , A. atropos will raid beehives .
+Acherontia_atropos	It will only attack Western honey bee beehives .
+Acherontia_atropos	A. atropos is attacked at the entrance by guard bees .
+Acherontia_atropos	However , A atropos is immune to the bees ' venom .
+Acherontia_atropos	The moth also can mimic the bees ' scent .
+Acherontia_atropos	A. atropos feeds on the honey .
+Acherontia_atropos	It will break through the honeycombs with its sharp proboscis .
+Acherontia_atropos	Female A. atropos will lay one egg per host plant ( the host plant is the plant that the caterpillar feeds on ) .
+Acherontia_atropos	She will lay them on the underside of the leaves .
+Acherontia_atropos	The egg is green or a gray-blue color .
+Acherontia_atropos	It will turn to a yellowish color just before hatching .
+Acherontia_atropos	The newly hatched caterpillar is yellow-green .
+Acherontia_atropos	It has a very long , black horn on the end of the abdomen .
+Acherontia_atropos	After it sheds its skin , it becomes more green .
+Acherontia_atropos	It has yellow stripes on each side of the body .
+Acherontia_atropos	There are many small white and yellow bumps on the body .
+Acherontia_atropos	After it sheds its skin a second time , the yellow stripes have blue or purple edges on them .
+Acherontia_atropos	The horn is yellow-green with the bottom part being black .
+Acherontia_atropos	After it sheds its skin for a third time , the caterpillar becomes more yellow .
+Acherontia_atropos	There is a row of black spots along each side of the body .
+Acherontia_atropos	The blue or purple edges on the yellow stripes become thicker .
+Acherontia_atropos	After it sheds its skin for the last time , it becomes even more yellow .
+Acherontia_atropos	All of the colors are brighter .
+Acherontia_atropos	There are no longer any bumps on the body .
+Acherontia_atropos	The horn is now yellow .
+Acherontia_atropos	It points downward .
+Acherontia_atropos	The horn has many little bumps on it .
+Acherontia_atropos	It will reach a length of about 13 cm ( 5.1 in ) .
+Acherontia_atropos	Before it turns into a chrysalis , the caterpillar will begin to darken .
+Acherontia_atropos	It will also cover itself with saliva .
+Acherontia_atropos	This makes the caterpillar darken even faster .
+Acherontia_atropos	Once this is done , it will look for a good place to pupate ( pupate means to turn into a pupa ) .
+Acherontia_atropos	The caterpillars do not move very much .
+Acherontia_atropos	They will only move to find fresh leaves .
+Acherontia_atropos	If a caterpillar is attacked , it will make sounds with its mandibles .
+Acherontia_atropos	They will also bite very hard if attacked .
+Acherontia_atropos	The caterpillar will pupate 15 to 40 cm ( 5.9 to 15.7 in ) deep in the ground .
+Acherontia_atropos	The chrysalis is a shiny brown .
+Acherontia_atropos	It is 7.5 to 8 cm ( 2.9 to 3.1 in ) long .
+Acherontia_atropos	If attacked , the chrysalis can move .
+Acherontia_atropos	The chrysalis hibernates .
+Acherontia_atropos	However , A. atropos will sometimes hibernate as a caterpillar .
+Acherontia_atropos	A. atropos does not live through the winter in Europe .
+A_major	A major ( or the key of A ) is a major scale with a base note of A. Its key signature has three sharps .
+A_major	Its relative minor is F-sharp minor .
+A_major	The key of A-major is the only key where a Neapolitan sixth chord on needs both a flat and a natural accidental .
+A_major	There are not as many symphonies in A major as in D major or G major , but more than other sharp keys .
+A_major	Beethoven 's Symphony No. 7 , Bruckner 's Symphony No. 6 and Mendelssohn 's Symphony No. 4 are almost all the symphonies in this key in the Romantic era .
+A_major	Mozart 's Clarinet Concerto and Clarinet Quintet are both in A major .
+A_major	Mozart used clarinets in A major often .
+A_major	In chamber music , A major is used a lot .
+A_major	Johannes Brahms , César Franck , and Gabriel Fauré wrote violin sonatas in A major .
+A_major	Peter Cropper said that A major `` is the fullest sounding key for the violin . ''
+A_major	, when he was talking about Beethoven 's Kreutzer Sonata .
+A_major	According to Christian Friedrich Daniel Schubart , A major is a key that is good for `` declarations of innocent love , ... hope of seeing one 's beloved again when parting ; youthful cheerfulness and trust in God . ''
+A_major	When music for orchestra is in A major , the timpani are normally set to A and E a fifth apart .
+A_major	In most other keys , they are set a fourth apart .
+All_For_Latvia!	All For Latvia !
+All_For_Latvia!	( Latvian : Visu Latvijai ! )
+All_For_Latvia!	is a national conservative political party in Latvia .
+All_For_Latvia!	started as a political youth organization in 2000 and became a political party in January 2006 , running in 2006 elections .
+All_For_Latvia!	It won 1.48 % of vote and no seats in the parliament .
+All_For_Latvia!	Its leaders are Raivis Dzintars and Imants Parādnieks .
+All_For_Latvia!	supports making Latvian citizenship laws more restrictive for non-citizens .
+All_For_Latvia!	The party is opposed to European federalism .
+American_basketball_at_the_Olympics	= = 1992 Men 's Basketball Team ( Barcelona ) - The Dream Team = = In 1989 , FIBA , international basketball 's governing body , allowed professional NBA players to participate in the Olympics for the first time .
+American_basketball_at_the_Olympics	Before the 1992 Summer Olympics , only European and South American professionals were allowed to play in the Olympics .
+American_basketball_at_the_Olympics	1992 roster .
+American_basketball_at_the_Olympics	Charles Barkley of the Phoenix Suns .
+American_basketball_at_the_Olympics	Larry Bird of the Boston Celtics .
+American_basketball_at_the_Olympics	Clyde Drexler of the Portland Trail Blazers .
+American_basketball_at_the_Olympics	Patrick Ewing of the New York Knicks .
+American_basketball_at_the_Olympics	Earvin `` Magic '' Johnson of the Los Angeles Lakers and the 1995-96 season ) Michael Jordan of the Chicago Bulls .
+American_basketball_at_the_Olympics	Christian Laettner of Duke University .
+American_basketball_at_the_Olympics	Karl Malone of the Utah Jazz .
+American_basketball_at_the_Olympics	Chris Mullin of the Golden State Warriors .
+American_basketball_at_the_Olympics	Scottie Pippen of the Chicago Bulls .
+American_basketball_at_the_Olympics	David Robinson of the San Antonio Spurs .
+American_basketball_at_the_Olympics	John Stockton of the Utah Jazz .
+American_basketball_at_the_Olympics	Coach : Chuck Daly of the Detroit Pistons .
+American_basketball_at_the_Olympics	Assistant Coach : Mike Krzyzewski .
+American_basketball_at_the_Olympics	Assistant Coach : Lenny Wilkens .
+American_basketball_at_the_Olympics	Assistant Coach : P.J. Carlesimo .
+American_basketball_at_the_Olympics	The official 12-man roster :
+Alcina	Alcina is an opera seria by George Frideric Handel .
+Alcina	The libretto was written by Riccardo Broschi .
+Alcina	It was based on an episode in Ludovico Ariosto 's Orlando furioso , an epic poem set in the time of Charlemagne 's wars against Islam .
+Alcina	Handel composed several little ballets in the opera for the famous dancer Marie Sallé .
+Alcina	Alcina was first performed on 16 April 1735 at Covent Garden in London .
+Alcina	It was revived in Germany in 1738 .
+Alcina	It was not performed again until 1928 .
+Alcina	Joan Sutherland sang the role for her debut in Venice in 1960 .
+Alcina	She sang it again the same year in Dallas .
+Alcina	She sang it at the Royal Opera House , Covent Garden , in 1962 .
+Alcina	Renée Fleming sang the role in Chicago in 1999 .
+Alcina	Alcina is a sorceress .
+Alcina	She changes people into stones , trees , and animals .
+Alcina	Bradamente lands on Alcina 's island looking for her fiancé Ruggiero .
+Alcina	He has been enchanted by Alcina .
+Alcina	He is in love with her .
+Alcina	Bradamente has a magic ring that allows her to break spells .
+Alcina	She intends to use it to free Alcina 's victims .
+Alcina	She lets Ruggiero wear it .
+Alcina	He sees at once that Alcina is a cruel enchantress and that her island is a desert .
+Alcina	Alcina is truly in love with Ruggiero .
+Alcina	Her magic powers slip away .
+Alcina	Bradamente and Ruggiero destroy an urn that is the source of Alcina 's power .
+Alcina	Alcina 's world disappears .
+Alcina	Her victims become humans again .
+Accession_of_Romania_to_the_European_Union	The Accession of Romania to the European Union happened on January 1 , 2007 .
+Accession_of_Romania_to_the_European_Union	The Treaty of Accession was signed on April 25 , 2005 at Luxembourg , Neumünster Abbey .
+Accession_of_Romania_to_the_European_Union	Romania was the first country of Central and Eastern Europe to officially join the European Union .
+Accession_of_Romania_to_the_European_Union	Since 1989 , Romania has wanted to be a part of the European Union ( EU ) .
+Accession_of_Romania_to_the_European_Union	and put itself forward to become a member in 1995 .
+Accession_of_Romania_to_the_European_Union	During the 2000s , Romania made changes to the country , such as making her democratic system , human rights acts , freedom of speech acts , economy and law better .
+Agathis	Agathis is a genus of evergreen , coniferous trees , the kauri .
+Agathis	They grow mainly in the southern hemisphere , including southeast Asia , areas of the western Pacific , and Australasia .
+Agathis	Agathis is a relatively small genus , with only 21 known species .
+Agathis	As a conifer , it produces pine cones .
+Agathis	Mature Agathis can become quite large , reaching 130 feet ( about 40 m ) in height and 10 feet ( about 3 m ) in diameter .
+Agathis	The genus is part of the ancient Araucariaceae family of conifers , a group once widespread during the Jurassic period , but now largely restricted to the southern hemisphere .
+Agathis	Mature kauri trees have large trunks , forming a bole with little or no branching below the crown .
+Agathis	In contrast , young trees are normally conical in shape , forming a more rounded or irregularly shaped crown as they mature .
+Agathis	In the logging industry it is generally referred to as commercial grade mahogany .
+Agathis	Timber from the Agathis has several uses , including cabinet making , boat building , musical instruments , and in years past , artificial limbs .
+Agathis	It also produces a wide variety of resins .
+Australia_national_football_team	Australia national football team is the national football team of Australia .
+Australia_national_football_team	Its official nickname is `` the Socceroos '' .
+Australia_national_football_team	The team is under the control of the Football Federation Australia ( FFA ) , which is a member of the Asian Football Confederation .
+Australia_national_football_team	It has also been invited to join the ASEAN Football Federation .
+Australia_national_football_team	Australia 's Youth teams play in the ASEAN Youth Tournaments .
+Australia_national_football_team	Australia has been the Oceania Football Confederation champion four times , and has been at three World Cup finals tournaments , in 1974 , 2006 and 2010 .
+Australia_national_football_team	FIFA Rankings show the Australian National Football team is one of the strongest countries in Asia , and is currently ranked 20th in the world by FIFA .
+Australia_national_football_team	Australia made it to the round of 16 in the 2006 World Cup held in Germany and were knocked out in controversial circumstances by eventual champions Italy .
+Australia_national_football_team	Australia 's 2010 world cup finals campaign was also blighted by controversial and mostly incorrect refereeing decisions and lead to the teams eventual elimination in the group stages despite a 2-1 win over a higher ranked Serbian team and a draw against Ghana .
+Australia_national_football_team	Australia will now prepare for the Asian cup in early 2011 and the 2014 world cup qualification .
+Australia_national_football_team	The Socceroos 2010 World Cup Squad , coached by Pim Verbeek , includes the following players : James Holland .
+Australia_national_football_team	David Carney .
+Australia_national_football_team	Shane Lowry .
+Australia_national_football_team	Rhys Williams .
+Australia_national_football_team	Michael Beauchamp .
+Australia_national_football_team	Josh Kennedy .
+Australia_national_football_team	Mile Jedinak .
+Australia_national_football_team	Dario Vidosic .
+Australia_national_football_team	Nikita Rukavytsya .
+Australia_national_football_team	Richard Garcia .
+Australia_national_football_team	Brett Holman .
+Australia_national_football_team	Carl Valeri .
+Australia_national_football_team	Brett Emerton .
+Australia_national_football_team	Brad Jones .
+Australia_national_football_team	Mark Schwarzer .
+Australia_national_football_team	Adam Federici .
+Australia_national_football_team	Eugene Galekovic .
+Australia_national_football_team	Mark Milligan .
+Australia_national_football_team	Jade North .
+Australia_national_football_team	Luke Wilkshire .
+Australia_national_football_team	Nick Carle .
+Australia_national_football_team	Jason Culina .
+Australia_national_football_team	Mark Bresciano .
+Australia_national_football_team	Vince Grella .
+Australia_national_football_team	Tim Cahill .
+Australia_national_football_team	Lucas Neill .
+Australia_national_football_team	Harry Kewell .
+Australia_national_football_team	Craig Moore .
+Australia_national_football_team	Scott Chipperfield .
+Australia_national_football_team	Scott McDonald .
+Australia_national_football_team	Tim Oar .
+Andrew_Huxley	Sir Andrew Fielding Huxley OM FRS ( 22 November 1917 - 30 May 2012 ) was an English physiologist and biophysicist .
+Andrew_Huxley	Huxley was the youngest son of the writer and editor Leonard Huxley by his second wife Rosalind Bruce .
+Andrew_Huxley	He was the half-brother of the writer Aldous Huxley and fellow biologist Julian Huxley , and grandson of the biologist T H. Huxley .
+Andrew_Huxley	He studied Natural Sciences at Trinity College , Cambridge .
+Andrew_Huxley	Huxley won the 1963 Nobel Prize in Physiology or Medicine for his experimental and mathematical work with Alan Hodgkin on the basis of nerve action potentials .
+Andrew_Huxley	These are the electrical impulses that make nerve fibers work , and so the whole central nervous system .
+Andrew_Huxley	Hodgkin and Huxley shared the prize that year with Sir John Eccles , who was cited for research on nerve synapses .
+Andrew_Huxley	Hodgkin and Huxley 's findings led the pair to suggest the existence of ion channels , which were found only decades later .
+Andrew_Huxley	Huxley was elected a Fellow of the Royal Society on 17 March 1955 .
+Andrew_Huxley	He was President of the Royal Society from 1980 to 1985 , and Master of Trinity from 1984-1990 .
+Andrew_Huxley	He was knighted by Queen Elizabeth II on 12 November 1974 , and appointed to the Order of Merit on 11 November 1983 .
+Alphonse_Mucha	Alphonse Mucha , ( 24 July 1860 - 14 July 1939 ) , was a Czech Art Nouveau painter and decorative artist , best known for his distinct style and his images of women .
+Alphonse_Mucha	He produced many paintings , illustrations , advertisements , and designs .
+Alphonse_Mucha	Mucha moved to Paris in 1887 , continued his studies , and worked at producing magazine and advertising illustrations .
+Alphonse_Mucha	Around Christmas 1894 , Mucha happened to drop into a print shop where there was a sudden and unexpected need for a new advertising poster for a play starring Sarah Bernhardt , the most famous actress in Paris .
+Alphonse_Mucha	Mucha volunteered to produce a lithographed poster within two weeks , and on 1 January 1895 , the advertisement for the play Gismonda by Victorien Sardou appeared on the streets of the city .
+Alphonse_Mucha	It was an overnight sensation and announced the new artistic style and its creator to the citizens of Paris .
+Alphonse_Mucha	Bernhardt was so satisfied with the success of this first poster that she entered into a 6 year contract with Mucha .
+Alphonse_Mucha	Mucha produced a flurry of paintings , posters , advertisements , and book illustrations , as well as designs for jewellery , carpets , wallpaper , and theater sets in what was initially called the Mucha Style but became known as Art Nouveau ( French for ` new art ' ) .
+Alphonse_Mucha	Mucha 's works frequently featured beautiful , strong young women in flowing vaguely Neoclassical looking robes , often surrounded by lush flowers which sometimes formed halos behind the women 's heads .
+Alphonse_Mucha	In contrast with contemporary poster makers he used pale pastel colors .
+Alphonse_Mucha	The 1900 Paris Exhibition spread the `` Mucha style '' abroad , of which Mucha said `` I think ( the Exposition Universelle ) made some contribution toward bringing aesthetic values into arts and crafts . ''
+Alphonse_Mucha	He decorated the Bosnia and Herzegovina Pavilion and collaborated in the Austrian Pavilion .
+Alphonse_Mucha	Mucha 's Art Nouveau style was often imitated .
+Alphonse_Mucha	The Art Nouveau style however , was one that Mucha attempted to distance himself from .
+Alphonse_Mucha	He always insisted that his paintings came purely from within and from Czech art .
+Alphonse_Mucha	He declared that art existed only to communicate a spiritual message , and nothing more .
+Alphonse_Mucha	He was frustrated at the fame he gained through commercial art , when he most wanted to concentrate on more lofty projects that would ennoble art and his birthplace .
